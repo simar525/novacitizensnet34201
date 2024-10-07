@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://link.cleverwoodprojects.org/newplans/$1"
+ }
+  ]
+}
